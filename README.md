@@ -12,10 +12,10 @@
 
 - 🤝 I’m looking for help with **Content creator/manager**
 
-- 👨‍💻 All of my projects are available at <br>
+- 👨‍💻 All of my projects are available at 
  &nbsp;&nbsp;&nbsp;&nbsp;[My shop](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📝 I regularly write articles on <br>
+- 📝 I regularly write articles on 
   &nbsp;&nbsp;&nbsp;&nbsp;[Visit My Portfolio](https://mohitpandey0.github.io/me.github.io/)
 
 - 📫 How to reach me &nbsp;&nbsp;&nbsp;
