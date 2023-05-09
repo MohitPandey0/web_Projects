@@ -6,8 +6,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [Educational Website](https://mohitpandey0.github.io/Portfolio_Reema.github.io/)
-
 - 🌱 I’m currently learning **tailwind-css**
 
 - 👯 I’m looking to collaborate on **Back-end with node-JS, Php , SQL**
@@ -15,10 +13,10 @@
 - 🤝 I’m looking for help with **Content creator/manager**
 
 - 👨‍💻 All of my projects are available at <br>
- &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+ &nbsp;&nbsp;&nbsp;&nbsp;[My shop](https://mohitpandey0.github.io/webworld.github.io/)
 
 - 📝 I regularly write articles on <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/me.github.io/)
+  &nbsp;&nbsp;&nbsp;&nbsp;[Visit My Portfolio](https://mohitpandey0.github.io/me.github.io/)
 
 - 📫 How to reach me &nbsp;&nbsp;&nbsp;
   **mohitkpandey677@gmail.com**
