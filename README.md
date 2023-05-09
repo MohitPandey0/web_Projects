@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [Educational Website](https://mohitpandey0.github.io/ReemaClass.github.io/)
+- 🔭 I’m currently working on [Educational Website](https://mohitpandey0.github.io/Portfolio_Reema.github.io/)
 
 - 🌱 I’m currently learning **tailwind-css**
 
@@ -18,7 +18,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
 - 📝 I regularly write articles on <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+  &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/me.github.io/)
 
 - 📫 How to reach me &nbsp;&nbsp;&nbsp;
   **mohitkpandey677@gmail.com**
