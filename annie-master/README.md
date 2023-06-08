@@ -6,7 +6,6 @@
 
   Annie is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/annie/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
